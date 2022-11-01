@@ -1,0 +1,21 @@
+.main {
+  /* .main__container */
+  /* .main__body */
+  /* .main__header */
+}
+.main__body {
+  margin-top: rem(110);
+}
+
+.main-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  /* .main-header__subscribe */
+  /* .main-header__subsk-button */
+  /* .main-header__logo */
+  /* .main-header__sets */
+  /* .main-header__contact-item */
+}
